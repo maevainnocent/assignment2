@@ -85,6 +85,6 @@ console summary are produced.
 
 Claude (Anthropic) was used to help design the class breakdown described
 above and to draft this document and the accompanying Java source files.
-Transcript: *[https://claude.ai/share/abd0178e-04ea-4e58-80c5-04cfd8ef3bd7]*.
+Transcript: *[https://claude.ai/share/7c76c9af-6c3e-481d-8752-ec5c485fc504]*.
 
 No other Internet resources were used.
