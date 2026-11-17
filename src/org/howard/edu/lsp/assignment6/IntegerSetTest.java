@@ -3,12 +3,7 @@ package org.howard.edu.lsp.assignment6;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-/**
- * Assignment 6: JUnit 5 tests for IntegerSet.
- *
- * Complete every TODO. Do not remove, rename, or disable test methods.
- * Each test must contain meaningful assertions and run independently.
- */
+
 public class IntegerSetTest {
 
     /**
